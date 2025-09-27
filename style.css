@@ -1,0 +1,40 @@
+
+/* h1{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+button{
+    color: blue;
+    background-color: green;
+}
+
+body{
+    background-color: rgb(163, 70, 137);
+    background-color: rebeccapurple;
+    background-color: #ff0000; 
+}  */
+
+*{
+    color: pink;
+}
+
+
+
+/* div{
+    height: 120px;
+    width: 150px;
+    border: 1px black;
+    background-color: yellow;
+    padding: 4px;
+   padding-right: 8px;
+   margin: 5px;
+   left: 100px;
+   top: 100px;
+   position: absolute;
+   inset-block-start: 40px;
+   inset-inline-start: 40px;
+} */
